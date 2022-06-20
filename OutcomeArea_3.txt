@@ -1,0 +1,19 @@
+Outcome,Area,Value
+Framework,Elicitation and Documentation,16
+Framework,Analysis and Negotiation,6
+Framework,Validation and Management,4
+Algorithm,Elicitation and Documentation,9
+Algorithm,Analysis and Negotiation,44
+Algorithm,Validation and Management,19
+Model,Elicitation and Documentation,11
+Model,Analysis and Negotiation,18
+Model,Validation and Management,2
+Prototype,Elicitation and Documentation,5
+Prototype,Analysis and Negotiation,8
+Prototype,Validation and Management,7
+Description,Elicitation and Documentation,5
+Description,Analysis and Negotiation,13
+Description,Validation and Management,4
+Explanation,Elicitation and Documentation,3
+Explanation,Analysis and Negotiation,9
+Explanation,Validation and Management,3

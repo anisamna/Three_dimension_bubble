@@ -1,0 +1,19 @@
+Outcome,Problem,Value
+Framework,Ambiguity,12
+Framework,Collaboration,1
+Framework,System design,13
+Algorithm,Ambiguity,8
+Algorithm,Collaboration,16
+Algorithm,System design,48
+Model,Ambiguity,16
+Model,Collaboration,4
+Model,System design,11
+Prototype,Ambiguity,1
+Prototype,Collaboration,10
+Prototype,System design,9
+Description,Ambiguity,1
+Description,Collaboration,12
+Description,System design,9
+Explanation,Ambiguity,4
+Explanation,Collaboration,5
+Explanation,System design,6
